@@ -1,0 +1,143 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 917px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 39px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 16px 0 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 600px;
+  background-image: url("images/faixapreta.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 8px 8px 8px 11px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 27px auto 0 41px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 2.25rem;
+  margin: -50px auto 0 105px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 64px;
+  height: 64px;
+  margin: 44px auto 0 41px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 2.25rem;
+  margin: -54px auto 0 105px;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 64px;
+  height: 64px;
+  margin: 41px auto 0 41px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 2.25rem;
+  margin: -43px auto 0 105px;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 16px 13px 0 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 812px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 495px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 696px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 986px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 569px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 775px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 358px;
+  }
+}
